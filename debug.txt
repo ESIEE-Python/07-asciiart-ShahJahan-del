@@ -1,0 +1,16 @@
+============================= test session starts ==============================
+platform linux -- Python 3.12.1, pytest-8.3.3, pluggy-1.5.0 -- /usr/local/py-utils/venvs/pytest/bin/python
+cachedir: .pytest_cache
+rootdir: /workspaces/07-asciiart-ShahJahan-del
+plugins: anyio-4.6.0
+collecting ... collected 7 items
+
+.python/test_.py::test_iterative[MMMMaaacXolloMM-expected0] PASSED       [ 14%]
+.python/test_.py::test_iterative[gggfhhhhhhggg-expected1] PASSED         [ 28%]
+.python/test_.py::test_iterative[~~~~~@@@---@@@~~~~~-expected2] PASSED   [ 42%]
+.python/test_.py::test_recursive[MMMMaaacXolloMM-expected0] PASSED       [ 57%]
+.python/test_.py::test_recursive[gggfhhhhhhggg-expected1] PASSED         [ 71%]
+.python/test_.py::test_recursive[~~~~~@@@---@@@~~~~~-expected2] PASSED   [ 85%]
+.python/test_.py::test_misc PASSED                                       [100%]
+
+============================== 7 passed in 0.02s ===============================
